@@ -1,0 +1,5 @@
+C:\Users\julia\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/julia/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -DCMAKE_TOOLCHAIN_FILE=C:\Users\julia\.vcpkg-clion\vcpkg\scripts\buildsystems\vcpkg.cmake -G Ninja -S C:\Users\julia\Downloads\SfmlBala -B C:\Users\julia\Downloads\SfmlBala\cmake-build-debug
+-- Found SFML 2.6.0 in C:/Users/julia/.vcpkg-clion/vcpkg/installed/x64-windows/share/sfml
+-- Configuring done (2.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/julia/Downloads/SfmlBala/cmake-build-debug

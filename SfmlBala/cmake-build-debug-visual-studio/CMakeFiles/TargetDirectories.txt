@@ -1,0 +1,3 @@
+C:/Users/julia/Downloads/SfmlBala/cmake-build-debug-visual-studio/CMakeFiles/SfmlBala.dir
+C:/Users/julia/Downloads/SfmlBala/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
+C:/Users/julia/Downloads/SfmlBala/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir
