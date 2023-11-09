@@ -1,0 +1,3 @@
+C:/Users/julia/Proyecto2doParcial/cmake-build-debug/CMakeFiles/Proyecto2doParcial.dir
+C:/Users/julia/Proyecto2doParcial/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/julia/Proyecto2doParcial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
